@@ -207,7 +207,7 @@ h6 {
   margin-bottom: 15px;
   font-weight: 700;
   color: #001659;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 
 h1 {
@@ -221,7 +221,7 @@ h1 {
 }
 h1.fs-lg {
   font-size: 90px;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 @media (max-width: 1200px) {
   h1.fs-lg {
@@ -2149,7 +2149,7 @@ header ul, header li, footer ul, footer li {
   display: inline-block;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
 }
 
@@ -2196,7 +2196,7 @@ header ul, header li, footer ul, footer li {
   transition: all 0.4s ease-in-out;
   border: 1px solid #020231;
   color: #020231;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .theme-btn.theme_btn__3:hover {
   border: 1px solid #e1c142;
@@ -2244,7 +2244,7 @@ header ul, header li, footer ul, footer li {
   font-size: 14px;
   line-height: 1 !important;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .theme-btn.style-4 i {
   margin-left: 0px;
@@ -2549,7 +2549,7 @@ header ul, header li, footer ul, footer li {
 .preloader p {
   font-size: 15px;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: inherit;
   letter-spacing: 8px;
   color: #001659;
 }
@@ -2600,7 +2600,7 @@ header .container-xxl {
   width: 100%;
 }
 header a {
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 header .header-right-elements > a {
   margin-left: 25px;
@@ -2653,7 +2653,7 @@ header.header-1 .main-menu ul > li > a {
   display: inline-block;
   font-weight: 600;
   font-size: 15px;
-  text-transform: uppercase;
+  text-transform: inherit;
   line-height: 1;
   padding: 25px 20px;
   overflow: hidden;
@@ -2741,7 +2741,7 @@ header.header-2 .main-menu ul > li > a {
   display: inline-block;
   font-weight: 600;
   font-size: 15px;
-  text-transform: uppercase;
+  text-transform: inherit;
   line-height: 1;
   padding: 30px 20px;
   overflow: hidden;
@@ -2807,12 +2807,12 @@ header.header-2 .right-elements .call-action span, header.header-2 .right-elemen
 header.header-2 .right-elements .call-action span {
   font-size: 14px;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 header.header-2 .right-elements .call-action p {
   font-size: 24px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 header.header-2 .main-header-wrapper {
   position: relative;
@@ -2904,7 +2904,7 @@ header.header-5 .header-right-elements a {
   font-style: normal;
   font-weight: 500;
   padding: 20px 40px;
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-left: 0px;
 }
 @media (max-width: 768px) {
@@ -2983,7 +2983,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #001659;
   font-weight: 700;
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .hero-social-elements .long-arrow {
   width: 1px;
@@ -3065,7 +3065,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #fff;
   font-size: 15px;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .page-banner-wrap .breadcrumb li a {
   color: #e1c142;
@@ -3148,7 +3148,7 @@ header .header-top-bar .top-social-icons a:hover {
   text-decoration: none;
   color: #fff;
   outline-width: 0;
-  text-transform: capitalize;
+  text-transform: inherit;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .mobile-nav .sidebar-nav .metismenu ul a {
@@ -3543,7 +3543,7 @@ header .header-top-bar .top-social-icons a:hover {
   bottom: 0;
   padding: 18px 31px;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
   background-color: #fff;
   color: #001659;
 }
@@ -3783,7 +3783,7 @@ header .header-top-bar .top-social-icons a:hover {
 .hero-3 .hero-content h1 {
   font-size: 90px;
   line-height: 1;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 991px) {
   .hero-3 .hero-content h1 {
@@ -3793,7 +3793,7 @@ header .header-top-bar .top-social-icons a:hover {
 .hero-3 .hero-content > h2 {
   font-size: 90px;
   line-height: 1;
-  text-transform: capitalize;
+  text-transform: inherit;
   color: #4E5AFF;
   position: relative;
   display: inline-block;
@@ -3982,7 +3982,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 130px;
   line-height: 110%;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 @media (max-width: 991px) {
   .agency-slider-active .single-agency-slide .hero-contents h1 {
@@ -4108,7 +4108,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #fff;
   font-size: 14px;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
   margin: 0px 10px;
 }
 .rotate-social-link a:hover {
@@ -4155,7 +4155,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-family: "Exo 2", sans-serif;
   font-weight: 700;
   font-size: 55px;
-  text-transform: capitalize;
+  text-transform: inherit;
   padding-bottom: 30px;
 }
 .agency-wrapper .it-wrapper .banner-text h1 span {
@@ -4323,7 +4323,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .agency-wrapper .brand-wepper .brand-head h5 {
   font-size: 20px;
-  text-transform: capitalize;
+  text-transform: inherit;
   color: #53545A;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -4371,7 +4371,7 @@ header .header-top-bar .top-social-icons a:hover {
   padding-bottom: 15px;
 }
 .agency-wrapper .info-wepper .section-title-2 h1 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-size: 36px;
   margin-bottom: 5px;
   padding-bottom: 0px;
@@ -4417,7 +4417,7 @@ header .header-top-bar .top-social-icons a:hover {
   width: auto;
 }
 .agency-wrapper .info-wepper .service-wepper .service-box .content h5 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-family: "Roboto", sans-serif;
   padding: 20px 0px;
   margin-bottom: 0px;
@@ -4464,7 +4464,7 @@ header .header-top-bar .top-social-icons a:hover {
   width: auto;
 }
 .agency-wrapper .info-wepper .service-wepper .service-box .overly-service-box .content h5 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-family: "Roboto", sans-serif;
   padding: 20px 0px;
   margin-bottom: 0px;
@@ -4682,7 +4682,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 135px;
   top: 35%;
   left: -3%;
-  text-transform: uppercase;
+  text-transform: inherit;
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.2);
   color: rgba(0, 0, 0, 0);
   position: absolute;
@@ -4750,7 +4750,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .block-contents .section-title span {
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #2aaaba;
 }
 .block-contents .section-title h2 {
@@ -4797,7 +4797,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 16px;
   line-height: 19px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #F47102;
   margin-bottom: 20px;
 }
@@ -4854,7 +4854,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 100%;
   margin-bottom: 20px;
   font-weight: 700;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 1200px) {
   .section-title-3 h2 {
@@ -5073,7 +5073,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 18px;
   font-weight: 700;
   color: #001659;
-  text-transform: uppercase;
+  text-transform: inherit;
   position: relative;
   z-index: 1;
   font-family: "Exo 2", sans-serif;
@@ -5454,7 +5454,7 @@ header .header-top-bar .top-social-icons a:hover {
   position: relative;
   font-size: 18px;
   color: #161616;
-  text-transform: uppercase;
+  text-transform: inherit;
   margin-right: 15px;
   padding-right: 15px;
   line-height: 1;
@@ -5616,7 +5616,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 16px;
   line-height: 1;
   color: #001659;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .single-work-process-item .contents h5 {
   font-size: 20px;
@@ -5946,7 +5946,7 @@ header .header-top-bar .top-social-icons a:hover {
   transition: all 0.4s ease-in-out;
   padding: 10px 20px;
   border-radius: 4px;
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-bottom: -15px;
   position: absolute;
   bottom: -1%;
@@ -5998,7 +5998,7 @@ header .header-top-bar .top-social-icons a:hover {
 .single-service-card .content .read-more {
   color: #e67373;
   text-decoration: underline;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-weight: 700;
   font-size: 14px;
   display: block;
@@ -6257,7 +6257,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-bottom: 25px;
 }
 .service-details-sidebar .single-service-sidebar .sidebar-title h3 {
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-top: -7px;
 }
 .service-details-sidebar .single-service-sidebar ul li {
@@ -6270,7 +6270,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #001659;
   text-align: center;
   padding: 16px 25px 14px;
-  text-transform: capitalize;
+  text-transform: inherit;
   font-weight: 500;
   margin-top: 10px;
 }
@@ -6283,7 +6283,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-top: 10px;
   text-align: center;
   font-weight: 500;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .service-details-sidebar .single-service-sidebar .brochures-download a i {
   margin: 0;
@@ -6688,7 +6688,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #020231;
 }
 
@@ -6946,7 +6946,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .single-project-item .content-text h4 {
   color: #001659;
@@ -6960,7 +6960,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .single-project-item .content-text p {
   font-size: 12px;
-  text-transform: uppercase;
+  text-transform: inherit;
   line-height: 1;
 }
 
@@ -7129,7 +7129,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .project-tabs-wrapper .nav-pills .nav-item button {
   color: #001659;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-family: "Exo 2", sans-serif;
   font-size: 20px;
   font-weight: 700;
@@ -7175,7 +7175,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 1;
   font-weight: 700;
   color: #e1c142;
-  text-transform: uppercase;
+  text-transform: inherit;
   display: block;
   margin-top: 20px;
 }
@@ -7210,7 +7210,7 @@ header .header-top-bar .top-social-icons a:hover {
 .project-tabs-wrapper .tab-content-wrapper .data-flex .single-data h6 span {
   color: #e1c142;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .project-tabs-wrapper .tab-content-wrapper img {
   margin-left: 20px;
@@ -7431,7 +7431,7 @@ header .header-top-bar .top-social-icons a:hover {
   -webkit-box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.06);
           box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.06);
   font-family: "Exo 2", sans-serif;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
 }
 @media (max-width: 767px) {
@@ -7490,14 +7490,14 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   margin-bottom: 0;
   line-height: 1.4;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .portfolio-showcase-carousel-active .single-recent-portfolio .project-details h5:hover a {
   color: #FFBB00;
 }
 .portfolio-showcase-carousel-active .single-recent-portfolio .project-details span {
   font-size: 14px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #53545a;
 }
 .portfolio-showcase-carousel-active .single-recent-portfolio .project-details .project-link {
@@ -7642,7 +7642,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 15px;
   line-height: 18px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #FFF;
   margin-bottom: 5px;
 }
@@ -7661,7 +7661,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 15px;
   line-height: 18px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #020231;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
@@ -7746,7 +7746,7 @@ header .header-top-bar .top-social-icons a:hover {
   padding: 15px;
   display: block;
   font-size: 15px;
-  text-transform: uppercase;
+  text-transform: inherit;
   border: 1px solid #EBEDF2;
 }
 .single-pricing-table .package-btn a:hover {
@@ -7777,7 +7777,7 @@ header .header-top-bar .top-social-icons a:hover {
   left: 0;
   top: -1px;
   content: "Popular";
-  text-transform: capitalize;
+  text-transform: inherit;
   line-height: 1;
   padding: 10px 30px;
   background-color: #e1c142;
@@ -7824,7 +7824,7 @@ header .header-top-bar .top-social-icons a:hover {
   padding: 15px;
   display: block;
   font-size: 15px;
-  text-transform: uppercase;
+  text-transform: inherit;
   border: 1px solid #EBEDF2;
 }
 .single-pricing-plan .package-btn a:hover {
@@ -7900,7 +7900,7 @@ header .header-top-bar .top-social-icons a:hover {
   padding: 28px 45px;
   display: inline-block;
   border: 2px solid #fff;
-  text-transform: uppercase;
+  text-transform: inherit;
   overflow: hidden;
   margin-right: 30px;
   margin-top: 25px;
@@ -7934,7 +7934,7 @@ header .header-top-bar .top-social-icons a:hover {
 .cta-promo-wrapper .cta-heading h2 {
   font-size: 50px;
   line-height: 1;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 991px) {
   .cta-promo-wrapper .cta-heading h2 {
@@ -8020,7 +8020,7 @@ header .header-top-bar .top-social-icons a:hover {
   overflow: hidden;
 }
 .call-phone-cta .content span {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 16px;
   display: block;
   padding-bottom: 10px;
@@ -8064,7 +8064,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 54px;
   text-align: center;
   color: #FFF;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 569px) {
   .cat__wrapper h2 {
@@ -8712,7 +8712,7 @@ header .header-top-bar .top-social-icons a:hover {
 .single-team-card .member-info-card .member-details h3 {
   color: #fff;
   margin-bottom: 0;
-  text-transform: capitalize;
+  text-transform: inherit;
   font-weight: 700;
 }
 .single-team-card .member-info-card .member-details span {
@@ -8781,7 +8781,7 @@ header .header-top-bar .top-social-icons a:hover {
   -ms-grid-columns: 1fr 20px 1fr;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-top: 5px;
 }
 @media (max-width: 767px) {
@@ -9071,7 +9071,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-bottom: 0px;
 }
 .single-team-member-3 .member-info-card .content p {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
   color: #161616;
   font-weight: 500;
@@ -9147,7 +9147,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 16px;
   line-height: 19px;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #FFF;
   margin-bottom: 10px;
 }
@@ -9340,7 +9340,7 @@ header .header-top-bar .top-social-icons a:hover {
 .single-skill-circle-bar h6 {
   font-size: 17px;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 
 .our-brand-wrapper {
@@ -9421,7 +9421,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .project-showcase-carousel .single-recent-project .project-details .project-cat span {
   color: #4E5AFF;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-weight: 600;
 }
 .project-showcase-carousel .single-recent-project .project-details h4 {
@@ -9432,7 +9432,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #4E5AFF;
 }
 .project-showcase-carousel .single-recent-project .project-details span {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 12px;
   line-height: 1;
 }
@@ -9559,7 +9559,7 @@ header .header-top-bar .top-social-icons a:hover {
   background-color: #fff;
   padding: 18px 30px;
   color: #001659;
-  text-transform: uppercase;
+  text-transform: inherit;
   display: inline-block;
   margin-top: 30px;
   line-height: 1;
@@ -9634,7 +9634,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 16px;
   font-weight: 600;
   color: #161616;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .faq-question-wrapper .faq-content .accordion-item .accordion-header .accordion-button::after {
   content: "\f067";
@@ -9751,7 +9751,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-right: 10px;
 }
 .single-blog-card .contents .post-metabar .post-author a {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
   color: #001659;
   font-weight: 700;
@@ -9767,7 +9767,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 16px;
 }
 .single-blog-card .contents .post-metabar .post-date a {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
   color: #001659;
   font-weight: 700;
@@ -9783,7 +9783,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 500;
   font-size: 14px;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
   margin-top: 30px;
   display: block;
 }
@@ -9816,7 +9816,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 23px;
   color: #171717;
   font-weight: 600;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .single-news-card .content h3:hover {
   color: #4E5AFF;
@@ -9867,12 +9867,12 @@ header .header-top-bar .top-social-icons a:hover {
   transition: all 0.3s ease-in-out;
   font-size: 14px;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-weight: 400 !important;
   color: #53545a !important;
 }
 .latest-news-card .content .post-meta {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-size: 14px;
 }
 .blog-wrapper .border-wrap {
@@ -10351,7 +10351,7 @@ header .header-top-bar .top-social-icons a:hover {
   background: #f8f8f8;
   margin-right: 5px;
   margin-bottom: 8px;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .tagcloud a:last-child {
   margin-right: 0;
@@ -10378,7 +10378,7 @@ header .header-top-bar .top-social-icons a:hover {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   margin-bottom: 10px;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .widget_categories ul li a:hover {
   color: #e1c142;
@@ -10667,7 +10667,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #fff;
   line-height: 1;
   font-size: 700;
-  text-transform: capitalize;
+  text-transform: inherit;
   padding: 24px 60px;
   font-family: "Exo 2", sans-serif;
   -webkit-transition: all 0.3s ease-in-out;
@@ -10892,7 +10892,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 700;
   font-size: 14px;
   margin-bottom: 10px;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .contact-form label span {
   color: #727475;
@@ -10907,7 +10907,7 @@ header .header-top-bar .top-social-icons a:hover {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   width: 230px;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-family: "Exo 2", sans-serif;
   font-size: 14px;
 }
@@ -10969,7 +10969,7 @@ header .header-top-bar .top-social-icons a:hover {
 .contact-us-sidebar .live-chat a {
   text-decoration: underline;
   color: #e1c142;
-  text-transform: uppercase;
+  text-transform: inherit;
   margin-top: 10px;
   display: block;
 }
@@ -11068,7 +11068,7 @@ header .header-top-bar .top-social-icons a:hover {
   border: 0px;
   color: #fff;
   border-radius: 5px;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .homepage-contact-from form .single-personal-info input::-webkit-input-placeholder, .homepage-contact-from form .single-personal-info textarea::-webkit-input-placeholder {
   color: #fff;
@@ -11108,7 +11108,7 @@ header .header-top-bar .top-social-icons a:hover {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   width: 200px;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-family: "Exo 2", sans-serif;
   font-size: 14px;
   border-radius: 5px;
@@ -11276,7 +11276,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 27px;
   margin: 30px 0px;
   color: #e1c142;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .our_faq__wrapper .contact__info {
   padding: 30px;
@@ -11310,7 +11310,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 18px;
   line-height: 27px;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 
 .footer-1 {
@@ -11538,7 +11538,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-bottom: 15px;
   display: block;
   font-weight: 400;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 1191px) {
   .footer-wrap .single-footer-wid ul li > a {
@@ -11730,7 +11730,7 @@ header .header-top-bar .top-social-icons a:hover {
   border: 0px;
   width: 100%;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: inherit;
   font-weight: 700;
   font-size: 14px;
   -webkit-transition: all 0.4s ease-in-out;
@@ -11883,7 +11883,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 36px;
   line-height: 48px;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 768px) {
   .footer-5 .footer-cta-wrapper .footer-cta-bg-wrapper .footer-middle-text h2 {
@@ -12063,7 +12063,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #64729B;
 }
 .section-title h2 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-size: 36px;
   margin-bottom: 5px;
   padding-bottom: 0px;
@@ -12114,7 +12114,7 @@ header .header-top-bar .top-social-icons a:hover {
   color: #e1c142;
 }
 .experience-weeper .experience-weeper-brand .count-item .single-fun-fact h3 {
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 @media (max-width: 900px) {
   .experience-weeper .experience-weeper-brand .count-item .single-fun-fact {
@@ -12205,7 +12205,7 @@ header .header-top-bar .top-social-icons a:hover {
   padding-bottom: 15px;
 }
 .experience-weeper .section-title-2 h1 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-size: 36px;
   margin-bottom: 5px;
   padding-bottom: 0px;
@@ -12321,7 +12321,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-bottom: 0px;
 }
 .time-management-wepper .management .content h3 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-family: "Roboto", sans-serif;
 }
 .time-management-wepper .management .content p {
@@ -12451,7 +12451,7 @@ header .header-top-bar .top-social-icons a:hover {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   padding: 5px 20px;
-  text-transform: capitalize;
+  text-transform: inherit;
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -12609,7 +12609,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-bottom: 5px;
   font-family: "Exo 2", sans-serif;
   font-weight: 600;
-  text-transform: capitalize;
+  text-transform: inherit;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
@@ -12902,7 +12902,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-top: 25px;
 }
 .working-prosess .single-working .content h5 {
-  text-transform: capitalize;
+  text-transform: inherit;
   font-family: "Exo 2", sans-serif;
 }
 .working-prosess .single-working .content p {
@@ -13022,7 +13022,7 @@ header .header-top-bar .top-social-icons a:hover {
 .team-member .single-member .hoverly .content h3 {
   color: #FFF;
   font-family: "Roboto", sans-serif;
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-bottom: 5px;
 }
 .team-member .single-member .hoverly .content p {
@@ -13218,7 +13218,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .price-wepper .card .card-body p {
   font-family: "Roboto", sans-serif;
@@ -13251,7 +13251,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 15px;
   font-size: 16px;
   color: #001659;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .price-wepper .card .card-body h5 {
   margin-bottom: 0px;
@@ -13262,7 +13262,7 @@ header .header-top-bar .top-social-icons a:hover {
   font-size: 15px;
   color: #e1c142;
   font-weight: 500;
-  text-transform: capitalize;
+  text-transform: inherit;
   font-size: 16px;
   padding-bottom: 30px;
 }
@@ -13318,7 +13318,7 @@ header .header-top-bar .top-social-icons a:hover {
   line-height: 28px;
   text-align: center;
   letter-spacing: 0.095em;
-  text-transform: uppercase;
+  text-transform: inherit;
   color: #e1c142;
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
@@ -13398,7 +13398,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 .testimonial-wrapper .testimonial-carousel-wrapper .client-content .clinte-info h3 {
   font-family: "Roboto", sans-serif;
-  text-transform: capitalize;
+  text-transform: inherit;
   margin-bottom: 0;
 }
 .testimonial-wrapper .testimonial-carousel-wrapper .client-content .clinte-info span {
@@ -13628,7 +13628,7 @@ header .header-top-bar .top-social-icons a:hover {
   margin-top: 30px;
   margin-bottom: 45px;
   font-weight: 600;
-  text-transform: capitalize;
+  text-transform: inherit;
 }
 .company-wepper .single-blog-card .contents h4 a {
   font-family: "Exo 2", sans-serif;
