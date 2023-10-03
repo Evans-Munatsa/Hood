@@ -4753,6 +4753,14 @@ header .header-top-bar .top-social-icons a:hover {
   text-transform: inherit;
   color: #2aaaba;
 }
+
+.block-contents .section-title-home span {
+  font-weight: 700;
+  text-transform: inherit;
+  color: #2aaaba;
+  font-size: x-large;
+}
+
 .block-contents .section-title h2 {
   font-size: 57px;
   line-height: 1.17;
@@ -4878,6 +4886,10 @@ header .header-top-bar .top-social-icons a:hover {
 
 .section-padding {
   padding: 120px 0px;
+}
+
+.section-padding-logo {
+  padding: 20px 0px;
 }
 @media (max-width: 1191px) {
   .section-padding {
@@ -5154,6 +5166,11 @@ header .header-top-bar .top-social-icons a:hover {
 
 .about-cover-bg {
   height: 570px;
+  position: relative;
+}
+
+.about-cover-bg-home {
+  height: 300px;
   position: relative;
 }
 @media (max-width: 991px) {
@@ -11378,7 +11395,7 @@ header .header-top-bar .top-social-icons a:hover {
 }
 
 .footer-widgets-wrapper {
-  padding-top: 50px;
+/*  padding-top: 50px;*/
   padding-bottom: 90px;
 }
 @media (max-width: 991px) {

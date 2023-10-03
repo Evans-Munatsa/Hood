@@ -4868,6 +4868,7 @@ header .header-top-bar .top-social-icons a:hover {
 
 .about-cover-bg {
   height: 570px;
+/*  height: 300px;*/
   position: relative;
 }
 @media (max-width: 991px) {
