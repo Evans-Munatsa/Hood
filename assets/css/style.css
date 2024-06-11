@@ -9369,7 +9369,7 @@ header .header-top-bar .top-social-icons a:hover {
   position: relative;
 }
 .brand-carousel-wrapper.dot-bg {
-  background-image: radial-gradient(#E6E6E6 1px, transparent 0);
+  /*background-image: radial-gradient(#E6E6E6 1px, transparent 0);*/
   background-size: 15px 15px;
   background-position: -17px ​-22px;
 }
@@ -9495,7 +9495,7 @@ header .header-top-bar .top-social-icons a:hover {
 .faq-accordion .accordion .accordion-item:first-of-type {
   padding-top: 0;
 }
-.faq-accordion .accordion .accordion-item::before {
+/*.faq-accordion .accordion .accordion-item::before {
   position: absolute;
   left: 25px;
   top: 0;
@@ -9506,7 +9506,7 @@ header .header-top-bar .top-social-icons a:hover {
   z-index: -1;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-}
+}*/
 .faq-accordion .accordion .accordion-item .accordion-header {
   font-size: inherit;
   line-height: inherit;
